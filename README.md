@@ -1,0 +1,2 @@
+# djangoCrud
+django CRUD applicaion
